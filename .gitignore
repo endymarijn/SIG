@@ -1,0 +1,26 @@
+# Backend
+backend/node_modules/
+backend/.env
+backend/logs/
+backend/dist/
+
+# Android
+android/.gradle/
+android/local.properties
+android/app/build/
+android/build/
+android/*.keystore
+android/**/*.keystore
+*.jks
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+*.swp
+*.swo
+__pycache__/
+
+# Test coverage
+coverage/
+*.lcov
